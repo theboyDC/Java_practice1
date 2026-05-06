@@ -14,9 +14,14 @@ public class Main {
 //
 //        System.out.println(Kata4.hoopCount(9));
 
-        System.out.println(Kata5.toAlternativeString("hello world") );
+//        System.out.println(Kata5.toAlternativeString("hello world") );
 //"HELLO WORLD"
 
+//        System.out.println(Kata6.correct("1F-RUDYARD K1PL1NG"));
+//        System.out.println(Kata7.find(new int[]{1, 2, 3, 4, 6, 7, 8}));
+//        System.out.println(Kata8.disemvowel("This website is for losers LOL!"));
+
+        System.out.println(ReverseString.main("ABCDeeee"));
 
 
 
